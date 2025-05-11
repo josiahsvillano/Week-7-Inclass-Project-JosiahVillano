@@ -1,0 +1,8 @@
+# ninja log v6
+103	428	7683593845968483	CMakeFiles/MyStringClass.dir/MyString.cpp.obj	dd73f9aefbf073eb
+33	1408	7683593995763131	CMakeFiles/MyStringClass.dir/main.cpp.obj	15cc9b5f62b1dcfb
+1412	2070	7683594009561131	MyStringClass.exe	6b86f9530406c33d
+45	1706	7683594784985740	CMakeFiles/MyStringClass.dir/main.cpp.obj	15cc9b5f62b1dcfb
+1707	2087	7683594801610475	MyStringClass.exe	6b86f9530406c33d
+11	1290	7683596940239003	CMakeFiles/MyStringClass.dir/main.cpp.obj	15cc9b5f62b1dcfb
+1292	1533	7683596953047271	MyStringClass.exe	6b86f9530406c33d
